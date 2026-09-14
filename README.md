@@ -20,7 +20,7 @@ Use of HTML
 *HTML is used to create the structure and content of the website.*
 
 I used different HTML elements such as:<br>
-
+*
 <header>   → Navigation bar<br>
 <nav>      → Navigation links<br>
 <section>  → Different sections<br>
@@ -31,7 +31,7 @@ I used different HTML elements such as:<br>
 <button>   → View Profile button<br>
 <div>      → Content containers<br>
 <span>     → Individual skills<br>
-
+*
 The basic Structure of website:-<br>
 Portfolio
 |
