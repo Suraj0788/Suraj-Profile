@@ -71,7 +71,7 @@ This divides the hero section into three columns:
 <hr>
 **Navigation and Smooth Scrolling**<br>
 The navigation links use HTML anchor tags:<br>
-eg: <a href="#skills">Skills</a><br>
+eg: /*<a href="#skills">Skills</a>*/<br>
 <hr>
 ***Colors***<br>
 I used a warm skin/beige background and orange as the main accent color, according to the design requirement.<br>
