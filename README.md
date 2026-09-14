@@ -15,7 +15,7 @@ Responsive mobile design
 
 Sneak peek :
 <img width="907" height="530" alt="image" src="https://github.com/user-attachments/assets/a69c841f-8296-4ce5-904c-925af502b0bd" />
-Use of HTML
+<h1>Use of HTML</h1>
 
 *HTML is used to create the structure and content of the website.*
 
@@ -61,7 +61,7 @@ Use of HTML
 </ul>
 </div>
 <hr>
-**Use of CSS**<br>
+<h1>Use of CSS</h1><br>
 CSS is used to control the design and appearance of the website.
 I used CSS to control:
 Colors<br>
