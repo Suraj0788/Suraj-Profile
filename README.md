@@ -15,7 +15,7 @@ Responsive mobile design
 
 Sneak peek :
 <img width="907" height="530" alt="image" src="https://github.com/user-attachments/assets/a69c841f-8296-4ce5-904c-925af502b0bd" />
-**Use of HTML**
+Use of HTML
 
 *HTML is used to create the structure and content of the website.*
 
@@ -33,7 +33,7 @@ I used different HTML elements such as:<br>
 <span>     → Individual skills<br>
 
 The basic Structure of website:-<br>
-*Portfolio
+Portfolio
 |
 |--Nav bar
   |--Logo
@@ -46,10 +46,10 @@ The basic Structure of website:-<br>
 |
 |--Profile Section
   |--About me
-  |--Skills**
+  |--Skills
 <hr>
-**Use of CSS**
-*CSS is used to control the design and appearance of the website.*
+Use of CSS
+CSS is used to control the design and appearance of the website.
 I used CSS to control:
 Colors<br>
 Fonts<br>
@@ -61,19 +61,19 @@ Button design<br>
 Hover effects<br>
 Responsive design<br>
 <hr>
-**CSS Grid**<br>
+CSS Grid<br>
 For the main hero section
 This divides the hero section into three columns:
 1.Name-28%<br>
 2.Photo-58%<br>
 3.side info-20%<br>
-*This helps arrange the name, photo, and information properly.*<br>
+This helps arrange the name, photo, and information properly.<br>
 <hr>
-**Navigation and Smooth Scrolling**<br>
+Navigation and Smooth Scrolling<br>
 The navigation links use HTML anchor tags
 <hr>
-***Colors***<br>
+Colors<br>
 I used a warm skin/beige background and orange as the main accent color, according to the design requirement.<br>
 <br><br>
-**Responsive Design**<br>
+Responsive Design<br>
 I used CSS media queries to make the website responsive.
