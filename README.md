@@ -19,34 +19,47 @@ Use of HTML
 
 *HTML is used to create the structure and content of the website.*
 
-I used different HTML elements such as:<br>
-*
-<header>   → Navigation bar<br>
-<nav>      → Navigation links<br>
-<section>  → Different sections<br>
-<h1>       → Main name<br>
-<h2>       → Section headings<br>
-<p>        → Paragraphs<br>
-<img>      → Profile photo<br>
-<button>   → View Profile button<br>
-<div>      → Content containers<br>
-<span>     → Individual skills<br>
-*
-The basic Structure of website:-<br>
-Portfolio
-|
-|--Nav bar
-  |--Logo
-  |--Home-About-Skills
-|
-|--Hero Section
-  |--Name
-  |--Photo
-  |--Occupation + view profile button
-|
-|--Profile Section
-  |--About me
-  |--Skills
+<p>I used different HTML elements such as:</p>
+
+<ul>
+    <li>Navigation bar</li>
+    <li>Navigation links</li>
+    <li>Different sections</li>
+    <li>Main name</li>
+    <li>Section headings</li>
+    <li>Paragraphs</li>
+    <li>Profile photo</li>
+    <li>View Profile button</li>
+    <li>Content containers</li>
+    <li>Individual skills</li>
+</ul>
+
+<h2>The Basic Structure of the Website</h2>
+
+<ul>
+    <li>Navigation Bar</li>
+    <li>Logo</li>
+    <li>Home</li>
+    <li>About</li>
+    <li>Skills</li>
+</ul>
+
+<h2>Hero Section</h2>
+
+<ul>
+    <li>Name</li>
+    <li>Profile Photo</li>
+    <li>Occupation</li>
+    <li>View Profile Button</li>
+</ul>
+
+<h2>Profile Section</h2>
+
+<ul>
+    <li>About Me</li>
+    <li>Skills</li>
+</ul>
+
 <hr>
 Use of CSS
 CSS is used to control the design and appearance of the website.
