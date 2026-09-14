@@ -33,8 +33,8 @@ Use of HTML
     <li>Content containers</li>
     <li>Individual skills</li>
 </ul>
-
-<h2>The Basic Structure of the Website</h2>
+<div>
+<h1>The Basic Structure of the Website:-</h1>
 
 <ul>
     <li>Navigation Bar</li>
@@ -44,7 +44,7 @@ Use of HTML
     <li>Skills</li>
 </ul>
 
-<h2>Hero Section</h2>
+<h3>Hero Section</h3>
 
 <ul>
     <li>Name</li>
@@ -53,15 +53,15 @@ Use of HTML
     <li>View Profile Button</li>
 </ul>
 
-<h2>Profile Section</h2>
+<h3>Profile Section</h3>
 
 <ul>
     <li>About Me</li>
     <li>Skills</li>
 </ul>
-
+</div>
 <hr>
-Use of CSS
+**Use of CSS**<br>
 CSS is used to control the design and appearance of the website.
 I used CSS to control:
 Colors<br>
