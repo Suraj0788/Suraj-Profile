@@ -104,16 +104,21 @@ body {
     writing-mode: vertical-rl;
 }
 
-
 /* ---------------- IMAGE ---------------- */
 
 .hero-image {
     height: 560px;
     background-color: #e9822b;
-
     overflow: hidden;
+    position: relative;
 }
 
+/* Hide checkbox */
+#video-toggle {
+    display: none;
+}
+
+/* Both images fill the container */
 .hero-image img {
     width: 100%;
     height: 100%;
@@ -121,14 +126,60 @@ body {
     object-fit: cover;
     object-position: center;
 
+    position: absolute;
+    top: 0;
+    left: 0;
+
     display: block;
-
-    transition: 0.4s ease;
 }
 
-.hero-image img:hover {
-    transform: scale(1.05);
+/* ---------------- NORMAL PHOTO ---------------- */
+
+.profile-photo {
+    opacity: 1;
+    z-index: 1;
 }
+
+/* ---------------- GIF ---------------- */
+
+.profile-gif {
+    opacity: 0;
+    z-index: 2;
+}
+
+/* ---------------- CLICK TO SHOW GIF ---------------- */
+
+#video-toggle:checked ~ .profile-photo {
+    opacity: 0;
+}
+
+#video-toggle:checked ~ .profile-gif {
+    opacity: 1;
+}
+
+/* ---------------- CLICK AREA ---------------- */
+
+.click-area {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 100%;
+
+    z-index: 10;
+
+    cursor: pointer;
+}
+
+/* ---------------- HOVER EFFECT ---------------- */
+
+.hero-image:hover .profile-photo,
+.hero-image:hover .profile-gif {
+    transform: scale(1.03);
+    transition: transform 0.4s ease;
+}
+
 
 /* ---------------- RIGHT INFORMATION ---------------- */
 
